@@ -24,7 +24,7 @@ The "See more" functionality should be implemented using the “page” URL para
 - Deployment of the web app on Vercel from your own GitHub repository.
 - The web app must have a responsive design.
 - Implement unit testing.
-- Do not use any 3rd party components like Material-ui, Shadcn-ui, etc. Use the TailwindCSS config file for colors, etc.
+- Do not use any 3rd party components like Material-ui, Shadcn-ui, etc. You must use TailwindCSS for styling, adding theme variables, etc.
 - In the footer, the Apply Digital logo should redirect you to the route "/".
 - The header should only have two navigation elements, a logo that redirects you to "/" and a cart icon to "/cart"
 
